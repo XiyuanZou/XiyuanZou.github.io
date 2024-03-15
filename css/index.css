@@ -794,12 +794,12 @@ blockquote p {
   border-top: 1px solid #bdc1c4;
 }
 #page_footer a {
-  color: #9ba1a6;
+  color: #fff2fd;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 #page_footer a:hover {
-  color: #000;
+  color: #fff2fd;
 }
 .footer_wrap {
   max-width: 600px;
